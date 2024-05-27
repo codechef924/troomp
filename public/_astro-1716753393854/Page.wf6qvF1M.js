@@ -368,7 +368,7 @@ const Tc = oe(wc, [["render", Sc]]),
     !e || !n
       ? null
       : e === "assets"
-      ? `./images/${n}`
+      ? `/public/images/${n}`
       : e === "unsplash"
       ? `https://images.unsplash.com/${n}`
       : n,
