@@ -385,7 +385,7 @@ const Tc = oe(wc, [["render", Sc]]),
   Bc = [
     el,
     "https://assets.zyrosite.space",
-    "./images",
+    "/images",
     "https://cdn.zyrosite.com",
   ],
   Ac = "https://images.unsplash.com",
